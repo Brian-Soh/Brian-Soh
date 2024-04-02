@@ -19,3 +19,4 @@ Undergraduate Business and Computer Science student at the University of British
 
 Currently working on android app development through Android Studio and hope to bring my hackathon project GreenThread to reality
 
+This is my new Github account used to keep projects more organized
