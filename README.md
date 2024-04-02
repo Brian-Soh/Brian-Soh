@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Brian👋
 
 <!--
 **Brian-Soh/Brian-Soh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Undergraduate Business and Computer Science student at the University of British Columbia with a desire to leverage technology for innovation
+
+Currently working on android app development through Android Studio and hope to bring my hackathon project GreenThread to reality
+
