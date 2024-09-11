@@ -3,6 +3,6 @@ I'm a full-time student studying Business and Computer Science at the University
 
 ### 💻 Tech Stack:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-soh&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-soh&layout=compact&theme=shadow_red)
 
 ![](https://komarev.com/ghpvc/?brian-soh)
