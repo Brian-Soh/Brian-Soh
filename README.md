@@ -1,22 +1,8 @@
-### Hi there, I'm Brian👋
+### Hi Devs!👋
+I'm a full-time student studying Business and Computer Science at the University of British Columbia. This is my new Github account used to keep projects more organized. Feel free to reach out to connect on [LinkedIn](https://www.linkedin.com/in/brian-soh/) or send me an email at [brian.soh.cs@gmail.com](mailto:brian.soh.cs@gmail.com). To see demonstrations of my projects, visit my portfolio website at: [https://brian-soh.github.io/](https://brian-soh.github.io/)
 
-<!--
-**Brian-Soh/Brian-Soh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Tech Stack:
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-soh&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Undergraduate Business and Computer Science student at the University of British Columbia with a desire to leverage technology for innovation
-
-Currently working on android app development through Android Studio and hope to bring my hackathon project GreenThread to reality
-
-This is my new Github account used to keep projects more organized
+![](https://komarev.com/ghpvc/?brian-soh)
