@@ -5,3 +5,6 @@ This is my new Github account used to keep projects more organized. Feel free to
 
 ### 💻 Tech Stack:
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-soh&layout=compact&theme=aura_dark)
+
+
