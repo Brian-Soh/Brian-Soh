@@ -3,8 +3,7 @@ I'm a full-time student studying Business and Computer Science at the University
 
 This is my new Github account used to keep projects more organized. Feel free to reach out by connecting with me on [LinkedIn](https://www.linkedin.com/in/brian-soh/) or by sending me an email at [brian.soh.cs@gmail.com](mailto:brian.soh.cs@gmail.com). To see demonstrations of my projects, visit my portfolio website at: [https://brian-soh.github.io/](https://brian-soh.github.io/)!
 
-### 💻 Tech Stack:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-soh&layout=compact&theme=aura_dark)
+
 
 
